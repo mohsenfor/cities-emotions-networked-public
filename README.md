@@ -1,4 +1,6 @@
-#cities, emotions and networked publics 
+#cities, emotions and networked publics. 
+
+
 for #MahsaAmini twitter movement, the project Analyzed 400,000 tweets using NLP tools to categorize
 emotions (e.g., hope, anger)
 and awareness themes (e.g., police brutality). 
